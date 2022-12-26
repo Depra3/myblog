@@ -10,7 +10,7 @@ tags:
 
 # JDK 설치
 
-## ☆ 다운로드 링크 ☆
+## ★ 다운로드 링크 ★
 
 [Download the Latest Java LTS Free](https://www.oracle.com/kr/java/technologies/downloads/)
 
