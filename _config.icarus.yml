@@ -117,9 +117,9 @@ widgets:
     -
         position: left
         type: profile
-        author: Your name
-        author_title: Your title
-        location: Your location
+        author: Depra3
+        author_title: Learning
+        location: Home
         avatar: 
         avatar_rounded: false
         gravatar: 
@@ -150,8 +150,8 @@ widgets:
         position: left
         type: links
         links:
-            Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            Eclipse : https://www.eclipse.org/
+            JDK : https://www.oracle.com/kr/java/technologies/downloads/
     -
         position: left
         type: categories
@@ -175,8 +175,8 @@ widgets:
     -
         position: left
         type: adsense
-        client_id: ''
-        slot_id: ''
+        client_id: 'pub-7389754760972755'
+        slot_id: '9930212528'
     -
         position: left
         type: followit
