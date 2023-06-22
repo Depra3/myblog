@@ -126,7 +126,7 @@ tags:
     - git push
 - Github 블로그에 배포하기
     - hexo generate
-    - hexo deploy  (배포)
-    - hexo server
+    - hexo deploy (배포)
+    - hexo server (배포 전 확인용)
     
     ![](/Images/2023/06/Node.js-Github_Blog/Untitled%2022.png)
