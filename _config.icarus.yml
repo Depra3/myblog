@@ -1,6 +1,8 @@
 version: 5.1.0
-variant: default
-logo: /img/logo.svg
+variant: cyberpunk
+logo: 
+    # /img/logo.svg
+    text: Depra3's Site
 head:
     favicon: /img/favicon.svg
     manifest:
@@ -119,8 +121,8 @@ widgets:
         type: profile
         author: Depra3
         author_title: Learning
-        location: Home
-        avatar: 
+        # location: Home
+        avatar: /img/ava.jpg
         avatar_rounded: false
         gravatar: 
         follow_link: https://github.com/Depra3
