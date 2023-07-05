@@ -1,5 +1,5 @@
 ---
-title: JAVA-연산자
+title: JAVA-연산자-① 정의, 종류, 우선 순위
 date: 2023/07/04 21:00:00
 categories:
 - JAVA
@@ -22,7 +22,7 @@ tags:
 
 ## 연산자의 종류
 
-![](/Images/2023/07/JAVA-연산자/Untitled.png)
+![](/Images/2023/07/JAVA-연산자-①/Untitled.png)
 
 - 피연산자 개수로 연산자 분류
     - **단항** 연산자 : ++, —, !, ^ 등
