@@ -82,8 +82,8 @@ tags:
     
     ![](/Images/2023/06/Node.js-Github_Blog/Untitled%2013.png)
     
-
-# 백업
+---
+## 백업
 
 - 폴더명과 Repository name과 항상 같아야함 / 배포 X 백업 O
 
@@ -102,7 +102,7 @@ tags:
     ![](/Images/2023/06/Node.js-Github_Blog/Untitled%2017.png)
     
 
-# 블로그 게시글 올리기
+## 블로그 게시글 올리기
 
 - 편하게 Notion을 이용해 올리는 방법
 

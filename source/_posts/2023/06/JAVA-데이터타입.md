@@ -10,7 +10,7 @@ tags:
 # **데이터 타입**
 ![](/Images/2023/06/JAVA-데이터타입/Untitled.png)
 
-
+---
 ## **`정수형` 타입 선언 및 출력**
 
 - byte, short, int, long타입들을 이용하며, 실수 입력 시에 오류가 발생한다.
@@ -34,7 +34,7 @@ tags:
     
     ![](/Images/2023/06/JAVA-데이터타입/Untitled%201.png)
     
-
+---
 ## `문자형` 타입 선언 및 출력
 
 - char타입이며 입출력 시에 ASCII를 참조한다.
@@ -59,7 +59,7 @@ tags:
     - char 타입에 숫자도 입력 받을 수 있으나 출력은 ASCII을 참조하여 출력한다.
         - 참고 자료 : [ASCII -위키백과](https://ko.wikipedia.org/wiki/ASCII)
     
-
+---
 ## `논리형` 타입 선언 및 출력
 
 - boolean타입이며 참(True 또는 1), 거짓(False 또는 0) 2가지 값을 사용한다.
@@ -79,7 +79,7 @@ tags:
     
     ![](/Images/2023/06/JAVA-데이터타입/Untitled%203.png)
     
-
+---
 ## `실수형` 데이터 타입
 
 - 부동소수점 표현 방식을 사용
