@@ -1,5 +1,5 @@
 ---
-title: JAVA-연산자-① 산술, 부호, 문자열, 대입
+title: JAVA-연산자-② 산술, 부호, 문자열, 대입
 date: 2023/07/05 21:00:00
 categories:
 - JAVA
