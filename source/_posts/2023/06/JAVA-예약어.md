@@ -5,6 +5,7 @@ categories:
 - JAVA
 tags:
 - 개념
+- 예약어
 ---
 
 - **JAVA에서 사용하는 의미가 약속된 단어들이다.**

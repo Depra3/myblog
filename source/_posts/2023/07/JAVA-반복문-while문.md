@@ -5,6 +5,8 @@ categories:
 - JAVA
 tags:
 - 개념
+- 반복문
+- while문
 ---
 
 # 반복문

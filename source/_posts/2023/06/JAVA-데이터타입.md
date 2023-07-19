@@ -5,6 +5,7 @@ categories:
 - JAVA
 tags:
 - 개념
+- 데이터 타입
 ---
 
 # **데이터 타입**

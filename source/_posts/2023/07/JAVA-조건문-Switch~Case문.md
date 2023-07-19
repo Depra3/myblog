@@ -5,6 +5,8 @@ categories:
 - JAVA
 tags:
 - 개념
+- 조건문
+- Switch~Case문
 ---
 
 # 조건문

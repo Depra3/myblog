@@ -5,6 +5,7 @@ categories:
 - JAVA
 tags:
 - 개념
+- 변수
 ---
 
 ## 변수
