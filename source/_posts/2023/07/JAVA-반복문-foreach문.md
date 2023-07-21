@@ -1,6 +1,6 @@
 ---
 title: JAVA - 반복문 - foreach 문
-date: 2023/07/21 21:00:00
+date: 2023/07/21 20:00:00
 categories:
 - JAVA
 tags:
