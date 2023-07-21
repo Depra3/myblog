@@ -12,7 +12,7 @@ tags:
 # 반복문
 
 - **프로그램 흐름에서 일정 횟수를 반복하고 싶은 구간에 사용하는 제어문**이다.
-- **종류 : while 문, do ~ while 문, for 문**
+- **종류 : while 문, do ~ while 문, for 문, foreach 문**
 
 # while 문
 
