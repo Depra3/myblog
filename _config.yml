@@ -64,3 +64,7 @@ deploy:
   type: git
   repo: https://github.com/Depra3/Depra3.github.io.git
   branch: main
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false
