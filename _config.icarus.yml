@@ -144,6 +144,11 @@ widgets:
             #     url: /
     -
         position: left
+        type: adsense
+        client_id: 'pub-7389754760972755'
+        slot_id: '9930212528'
+    -
+        position: left
         type: toc
         index: true
         collapsed: true
@@ -174,11 +179,7 @@ widgets:
     #     type: subscribe_email
     #     description: 
     #     feedburner_id: ''
-    -
-        position: left
-        type: adsense
-        client_id: 'pub-7389754760972755'
-        slot_id: '9930212528'
+    
     # -
     #     position: left
     #     type: followit
@@ -204,7 +205,7 @@ plugins:
         policyLink: https://www.cookiesandyou.com/
     gallery: true
     google_analytics:
-        tracking_id: 
+        tracking_id: G-1JPG97310W
     hotjar:
         site_id: 
     katex: false

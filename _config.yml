@@ -64,7 +64,21 @@ deploy:
   type: git
   repo: https://github.com/Depra3/Depra3.github.io.git
   branch: main
+nofollow:
+  enable: true
+  exclude:
+    - exclude1.com
+    - exclude2.com
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 20
 sitemap:
   path: sitemap.xml
   tag: false
   category: false
+robotstxt:
+  useragent: '*'
+  allow:
+    - /
+  sitemap: https://depra3.github.io//sitemap.xml
