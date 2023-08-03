@@ -50,7 +50,7 @@ do {
     
     ![](/Images/2023/07/JAVA-반복문-do~while문/Untitled.png)
     
-#
+---
 ## 사용 형식 ②
 
 ```java

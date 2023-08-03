@@ -61,7 +61,7 @@ switch(변수) {
     - **IF 문과 달리 Case 문에서 블록기호 { } 를 사용하지 않아도 두 줄이상 사용이 가능**하다.
     - **참고** : [depra3's JAVA-조건문-IF문](https://depra3.github.io/2023/07/12/2023/07/JAVA-%EC%A1%B0%EA%B1%B4%EB%AC%B8-IF%EB%AC%B8/)
     
-
+---
 ## **※ 주의 사항 ※**
 
 - **Case 문 처리 이후 break 문으로 마무리** 지어야 한다. 그렇지 않으면 **break 문이 나올 때 까지 모든 Case문을 처리**한다.

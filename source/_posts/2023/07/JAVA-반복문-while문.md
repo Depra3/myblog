@@ -43,7 +43,7 @@ while(조건식){
     
     ![](/Images/2023/07/JAVA-반복문-while문/Untitled.png)
     
-
+---
 ## 사용 형식 ②
 
 ```java

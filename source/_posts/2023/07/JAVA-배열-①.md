@@ -82,7 +82,7 @@ tags:
     
     ![](/Images/2023/07/JAVA-배열-①/Untitled.png)
     
-
+---
 # 주의할 점
 
 ## 선언 시 주의할 점
