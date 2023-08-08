@@ -41,16 +41,18 @@ tags:
     	자료형(String, int, ...) 변수명;
     
     	// 기본 생성자 - 생략 가능
-    	접근제어자(public, protect, private) 클래스명() { } 
+    	접근제어자 클래스명() { } 
     	// 매개 변수가 있는 생성자 - 생략 불가능
-    	접근제어자(public, protect, private) 클래스명(자료형 매개변수①, 자료형 매개변수②, ...) {
+    	접근제어자 클래스명(자료형 매개변수①, 자료형 매개변수②, ...) {
     		~~~
     		~~~
     	}
     
-    	접근제어자(public, protect, private) 리턴타입(String, int, ...) 메소드명(){	}	
+    	접근제어자 리턴타입(String, int, ...) 메소드명(){	}	
     }
     ```
+    
+    - **접근제어자 : [Depra3's JAVA - 접근제어자](https://depra3.github.io/2023/08/07/2023/08/JAVA-%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90/)**
 #
 - **코드**
     

@@ -31,13 +31,14 @@ tags:
 
 - **매개 변수 : 메소드에 전달된 입력 값을 저장하는 변수**
     ```java
-    접근제어자(public, protect, private) 리턴타입(String, int, ...) 메소드명(자료형 매개변수①, 
-                                                                          자료형 매개변수②, ...){
-        ~~
-        ~~
-        return 리턴 값; // 단, 리턴타입이 void인 경우 return은 사용할 필요가 없다.
+    접근제어자 리턴타입(String, int, ...) 메소드명(자료형 매개변수①, 자료형 매개변수②, ...){
+    	~~
+    	~~
+    	return 리턴 값; // 단, 리턴타입이 void인 경우 return은 사용할 필요가 없다.
     }
     ```
+    
+    - **접근제어자 : [Depra3's JAVA - 접근제어자](https://depra3.github.io/2023/08/07/2023/08/JAVA-%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90/)**
 #
 ---
 
