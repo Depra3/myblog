@@ -59,7 +59,7 @@ tags:
     
 - **결과**
     
-    ![Untitled](JAVA-final-%E2%91%A0%20dff2e037b24a40c499a92faa2f717663/Untitled.png)
+    ![](/Images/2023/08/JAVA-final-①/Untitled.png)
     
 
 ### **※ 오류 발생 ※**
@@ -68,11 +68,11 @@ tags:
 
 - **코드**
     
-    ![Untitled](JAVA-final-%E2%91%A0%20dff2e037b24a40c499a92faa2f717663/Untitled%201.png)
+    ![](/Images/2023/08/JAVA-final-①/Untitled%201.png)
     
 - **결과**
     
-    ![Untitled](JAVA-final-%E2%91%A0%20dff2e037b24a40c499a92faa2f717663/Untitled%202.png)
+    ![](/Images/2023/08/JAVA-final-①/Untitled%202.png)
     
 
 ---
@@ -111,7 +111,7 @@ tags:
     
 - **결과**
     
-    ![Untitled](JAVA-final-%E2%91%A0%20dff2e037b24a40c499a92faa2f717663/Untitled%203.png)
+    ![](/Images/2023/08/JAVA-final-①/Untitled%203.png)
     
 
 ### **※ 오류 발생 ※**
@@ -146,4 +146,4 @@ tags:
     
 - **결과**
     
-    ![Untitled](JAVA-final-%E2%91%A0%20dff2e037b24a40c499a92faa2f717663/Untitled%204.png)
+    ![](/Images/2023/08/JAVA-final-①/Untitled%204.png)
