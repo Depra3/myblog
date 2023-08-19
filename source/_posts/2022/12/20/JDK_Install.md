@@ -22,7 +22,7 @@ tags:
     
     ![](/Images/2022/12/20/JDK_Install/Untitled%201.png)
     
-
+---
 # 환경  변수 설정
 
 - **내 PC에서 마우스 오른쪽 클릭 후 속성 클릭**
@@ -62,7 +62,7 @@ tags:
     
     ![](/Images/2022/12/20/JDK_Install/Untitled%209.png)
     
-
+---
 ## 참고 (CLASS PATH)
 
 - **Class Path**는 Java Application이 사용하고 있는 **Class가 여러 경로로 분산 되어 있을 때 하나로 모으기 위해 사용하는 방법**
@@ -74,7 +74,7 @@ tags:
 - **CLASSPATH와 %JAVA_HOME%\lib 입력 후 확인**
 
     ![](/Images/2022/12/20/JDK_Install/Untitled%2011.png)
-
+---
 # 설치 확인
 
 - **시작메뉴 옆에서 cmd 입력 후 명령 프롬프트 실행**

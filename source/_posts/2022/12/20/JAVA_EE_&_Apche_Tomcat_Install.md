@@ -11,8 +11,9 @@ tags:
 
 # JAVA EE를 사용하기 위한 Eclipse 다운로드
 
-## ★ 다운로드 링크 ★ : **[Eclipse Download](https://www.eclipse.org/downloads/packages/)**
-
+## ★ 다운로드 링크 ★
+## **[Eclipse Download](https://www.eclipse.org/downloads/packages/)**
+#
 - 아래의 그림에서 **이용자의 운영체제에 맞게 선택**하여 **다운로드**
     
     ![](/Images/2022/12/20/JAVA_EE_&_Apche_Tomcat_Install/Untitled.png)
