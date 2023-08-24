@@ -87,7 +87,7 @@ tags:
 #
 - **결과**
     
-    ![](\Images\2023\08\JAVA-상속-CLASS/Untitled.png)
+    ![](/Images/2023/08/JAVA-상속-CLASS/Untitled.png)
     
 
 ---
@@ -96,7 +96,7 @@ tags:
 
 - **참고 이미지**
     
-    ![](\Images\2023\08\JAVA-상속-CLASS/Untitled%201.png)
+    ![](/Images/2023/08/JAVA-상속-CLASS/Untitled%201.png)
     
 
 ## super 키워드

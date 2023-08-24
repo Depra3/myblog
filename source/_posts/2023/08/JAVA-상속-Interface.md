@@ -89,7 +89,7 @@ tags:
 #
 - **결과**
     
-    ![](\Images\2023\08\JAVA-상속-Interface/Untitled.png)
+    ![](/Images/2023/08/JAVA-상속-Interface/Untitled.png)
     
 
 ---
@@ -157,7 +157,7 @@ tags:
     
 - **결과**
     
-    ![](\Images\2023\08\JAVA-상속-Interface/Untitled%201.png)
+    ![](/Images/2023/08/JAVA-상속-Interface/Untitled%201.png)
     
 
 ---
@@ -225,4 +225,4 @@ tags:
     
 - **결과**
     
-    ![](\Images\2023\08\JAVA-상속-Interface/Untitled%202.png)
+    ![](/Images/2023/08/JAVA-상속-Interface/Untitled%202.png)
