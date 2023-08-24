@@ -34,7 +34,7 @@ tags:
 # 상속 선언
 
 - **클래스와 인터페이스 간의 상속은 implements 키워드를 사용**한다.
-
+#
 - **예시**
     
     ```java
@@ -86,9 +86,10 @@ tags:
     ```
     
     - **메소드 오버라이딩 : [JAVA - 메소드](https://depra3.github.io/2023/08/04/2023/08/JAVA-%EB%A9%94%EC%86%8C%EB%93%9C/)**
+#
 - **결과**
     
-    ![Untitled](JAVA-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8-Interface%20cb6f4aa63a8449d59223e60e7d51f085/Untitled.png)
+    ![](\Images\2023\08\JAVA-상속-Interface/Untitled.png)
     
 
 ---
@@ -96,6 +97,7 @@ tags:
 # 이중 상속
 
 - **인터페이스간의 상속은 extends 키워드를 사용**한다.
+#
 - **예시**
     
     ```java
@@ -155,7 +157,7 @@ tags:
     
 - **결과**
     
-    ![Untitled](JAVA-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8-Interface%20cb6f4aa63a8449d59223e60e7d51f085/Untitled%201.png)
+    ![](\Images\2023\08\JAVA-상속-Interface/Untitled%201.png)
     
 
 ---
@@ -163,7 +165,7 @@ tags:
 # 다중 상속 선언
 
 - **implements 키워드 뒤에 나열하여 사용**한다.
-
+#
 - **예시**
     
     ```java
@@ -223,4 +225,4 @@ tags:
     
 - **결과**
     
-    ![Untitled](JAVA-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8-Interface%20cb6f4aa63a8449d59223e60e7d51f085/Untitled%202.png)
+    ![](\Images\2023\08\JAVA-상속-Interface/Untitled%202.png)

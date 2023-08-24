@@ -22,7 +22,7 @@ tags:
 | 일 | 이 | 삼 | … |
 
 # 배열 선언 형식
-
+- **예시**
 ```java
 // ①
 데이터타입[] 변수명 = new 데이터타입[길이];
@@ -39,7 +39,7 @@ tags:
 데이터타입 변수명[] = { 변수1, 변수2, ....};
 ```
 #
-- **예시**
+- **코드**
     
     ```java
     // 방식 ①
@@ -76,14 +76,14 @@ tags:
     	System.out.println(arr);
     }
     ```
-    - 방식 ③ 참고 : [foreach 문](https://depra3.github.io/2023/07/21/2023/07/JAVA-반복문-foreach문/)
+    - **방식 ③ 참고 : [Depra3's foreach 문](https://depra3.github.io/2023/07/21/2023/07/JAVA-반복문-foreach문/)**
 #    
 - **결과**
     
     ![](/Images/2023/07/JAVA-배열-①/Untitled.png)
     
 ---
-# 주의할 점
+# ★ 주의사항 ★
 
 ## 선언 시 주의할 점
 
