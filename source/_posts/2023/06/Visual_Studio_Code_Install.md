@@ -9,7 +9,7 @@ tags:
 
 # 코딩 작업 편의를 위한 VS Code 다운로드
 ## ★ 다운로드 링크 ★
-- **[https://code.visualstudio.com/download](https://code.visualstudio.com/download)**
+- **[Visual Studio Code 설치 링크](https://code.visualstudio.com/download)**
 #
 - 다양한 운영체제에서도 사용 가능
 - 글쓴이는 Window 64bit를 사용하고 있어 x64중 System Installer를 다운 받음
