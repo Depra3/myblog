@@ -31,29 +31,29 @@ tags:
     - 자동차의 **기능** - 시동, 주행, 정지 등
     - **메서드(method), 함수(function), 행위(behavior)**
 #
-- **예시**
+- **코드**
 
-```java
-public class Car {
-	// 속성 - 멤버 변수
-	public String company;   // 제조사
-	public String model;     // 자동차 모델
-	public String color;     // 자동차 색깔
-	public int maxSpeed;     // 최고 속도
-	public int currentSpeed; // 현재 속도
+	```java
+	public class Car {
+		// 속성 - 멤버 변수
+		public String company;   // 제조사
+		public String model;     // 자동차 모델
+		public String color;     // 자동차 색깔
+		public int maxSpeed;     // 최고 속도
+		public int currentSpeed; // 현재 속도
 
-	// 기능 - 메서드
-	public void speedUp() {
-		this.currentSpeed = this.currentSpeed + 1;
+		// 기능 - 메서드
+		public void speedUp() {
+			this.currentSpeed = this.currentSpeed + 1;
+		}
+		
+		public int speedDown() {
+			this.currentSpeed--;
+			return this.currentSpeed;
+		}
+		
+		public int getCurrentSpeed() {
+			return this.currentSpeed;
+		}
 	}
-	
-	public int speedDown() {
-		this.currentSpeed--;
-		return this.currentSpeed;
-	}
-	
-	public int getCurrentSpeed() {
-		return this.currentSpeed;
-	}
-}
-```
+	```

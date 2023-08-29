@@ -86,33 +86,33 @@ tags:
 # ★ 주의사항 ★
 
 ## 선언 시 주의할 점
+- **코드**
+    ```java
+    // error 발생 X
+    int[] c = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-```java
-// error 발생 X
-int[] c = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    // error 발생 O
+    int[] d;
+    d = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    ```
 
-// error 발생 O
-int[] d;
-d = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-```
-
-- 배열 c에서는 Error가 발생하지 않는다. 그러나 **배열 d와 같이 2 줄로 정의하면 컴파일 Error가 발생**한다.
-    
-    ![](/Images/2023/07/JAVA-배열-①/Untitled%201.png)
+    - 배열 c에서는 Error가 발생하지 않는다. 그러나 **배열 d와 같이 2 줄로 정의하면 컴파일 Error가 발생**한다.
+        
+        ![](/Images/2023/07/JAVA-배열-①/Untitled%201.png)
     
 
 ## 출력 시 주의할 점
+- **코드**
+    ```java
+    // 배열 내용 출력
+    System.out.println(Arrays.toString(b));
+    System.out.println(Arrays.toString(bb));
 
-```java
-// 배열 내용 출력
-System.out.println(Arrays.toString(b));
-System.out.println(Arrays.toString(bb));
+    // 배열 주소 출력
+    System.out.println(c);
+    System.out.println(cc);
+    ```
 
-// 배열 주소 출력
-System.out.println(c);
-System.out.println(cc);
-```
-
-- **Arrays 클래스, 반복문을 이용하지 않고 그대로 변수명을 이용하여 출력하면 배열의 주소가 출력**이 된다.
+    - **Arrays 클래스, 반복문을 이용하지 않고 그대로 변수명을 이용하여 출력하면 배열의 주소가 출력**이 된다.
     
-    ![](/Images/2023/07/JAVA-배열-①/Untitled%202.png)
+        ![](/Images/2023/07/JAVA-배열-①/Untitled%202.png)

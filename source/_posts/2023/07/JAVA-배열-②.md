@@ -116,7 +116,7 @@ tags:
     	System.out.println();
     }
     ```
-    
+#    
 - **결과**
     
     ![](/Images/2023/07/JAVA-배열-②/Untitled.png)
@@ -126,7 +126,7 @@ tags:
 
 - **배열 요소에 배열이 있기 때문에, 1차원 배열처럼 출력하면 배열 주소가 출력**된다.
 #
-- **예시**
+- **코드**
     
     ```java
     System.out.println(Arrays.toString(b));
