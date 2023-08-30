@@ -128,7 +128,7 @@ tags:
 # 문자 비교
 
 - 문자 비교시 **아스키 코드에 기반하여 비교**를 한다.
-    - 참고 : [아스키 코드(ASCII)](https://ko.wikipedia.org/wiki/ASCII)
+    - **참고 : [아스키 코드(ASCII)](https://ko.wikipedia.org/wiki/ASCII)**
     #
 - **코드**
     
