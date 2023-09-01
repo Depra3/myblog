@@ -12,7 +12,7 @@ tags:
 
 # 논리 연산자
 
-- 2개의 boolean 값의 관계를 비교하여 true, false를 판별한다.
+- **2개의 boolean 값의 관계를 비교하여 true, false를 판별**한다.
     - **boolean : [데이터타입 - boolean(논리형)](https://depra3.github.io/2023/06/28/2023/06/JAVA-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/)**
     
     ![](/Images/2023/07/JAVA-연산자-④/Untitled.png)

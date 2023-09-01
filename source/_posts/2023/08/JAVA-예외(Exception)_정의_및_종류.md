@@ -26,11 +26,11 @@ tags:
 ---
 # **예외 종류**
 
-## **NullPointerException**
+## **1. NullPointerException**
 
 - **객체 참조가 없는 상태에서 메서드를 호출할 때 발생**
 
-### 객체 생성 후 객체가 가리키는 heap주소를 null로 변경할 경우
+### ① 객체 생성 후 객체가 가리키는 heap주소를 null로 변경할 경우
 
 - **코드**
     
@@ -65,7 +65,7 @@ tags:
     ![](/Images/2023/08/JAVA-예외(Exception)_정의_및_종류/Untitled.png)
     
 
-### 배열 변수에 null로 초기화 한 후 배열 내의 값을 접근할 경우
+### ② 배열 변수에 null로 초기화 한 후 배열 내의 값을 접근할 경우
 
 - **코드**
     
@@ -83,7 +83,7 @@ tags:
     ![](/Images/2023/08/JAVA-예외(Exception)_정의_및_종류/Untitled%201.png)
     
 ---
-## **ArrayIndexOutOfBoundsException**
+## **2. ArrayIndexOutOfBoundsException**
 
 - **배열에서 인덱스 범위를 초과하여 사용할 경우 발생**
 #
@@ -105,7 +105,7 @@ tags:
     ![](/Images/2023/08/JAVA-예외(Exception)_정의_및_종류/Untitled%202.png)
     
 ---
-## **NumberFormatException**
+## **3. NumberFormatException**
 
 - **문자열을 숫자로 변환하는 경우 주로 발생**
 
@@ -137,7 +137,7 @@ tags:
     ![](/Images/2023/08/JAVA-예외(Exception)_정의_및_종류/Untitled%203.png)
     
 ---
-## **ClassCastException**
+## **4. ClassCastException**
 
 - **타입 변환이 되지 않을 때 발생**
 #

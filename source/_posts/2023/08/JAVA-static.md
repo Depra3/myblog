@@ -32,20 +32,22 @@ tags:
 - **모든 클래스에서 호출이 가능한 전역변수 또는 전역함수를 만들어서 사용**하기 위함
 - **static 변수**는 **동일 클래스 내에서 모든 객체(인스턴스)에서 공유가 가능하여 필요할 때 사용**한다.
 
+---
 # Static(정적) 멤버 선언
 
-```java
-// 정적 필드 선언
-static 자료형 변수명;
-static 자료형 변수명 = ~~;
+- **예시**
+    ```java
+    // 정적 필드 선언
+    static 자료형 변수명;
+    static 자료형 변수명 = ~~;
 
-// 정적 메소드 선언
-접근제어자 static 자료형 리턴타입 메소드명(){}
+    // 정적 메소드 선언
+    접근제어자 static 자료형 리턴타입 메소드명(){}
 
-// 예시
-public static int sta_field = 0; // 정적 필드 선언
-public static void sta_method(){} // 정적 메소드 선언
-```
+    // 예시
+    public static int sta_field = 0; // 정적 필드 선언
+    public static void sta_method(){} // 정적 메소드 선언
+    ```
 #
 - **사용 예시**
     
@@ -71,7 +73,7 @@ public static void sta_method(){} // 정적 메소드 선언
     
     ![](/Images/2023/08/JAVA-static/Untitled.png)
     
-
+---
 # ※ 주의 사항 ※
 
 - **오류 코드**
