@@ -11,14 +11,20 @@ tags:
 - finally
 - 예제
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
 
-# 목차
 - [예외 ㅡ Exception](#예외-ㅡ-Exception)
 - [try ㅡ catch ㅡ finally문](#try-ㅡ-catch-ㅡ-finally문)
 - [사용 예제 ①](#사용-예제-①)
 - [사용 예제 ②](#사용-예제-②)
-
+</div>
+</details>
+</h1>
 ---
+
 # 예외 ㅡ Exception
 
 - **프로그램에 대한 사용자의 조작 또는 개발자의 코딩에서 문제가 발생하여 생기는 오류**

@@ -15,16 +15,22 @@ tags:
 - NumberFormatException
 - ClassCastException
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
 
-# 목차
 - [예외 ㅡ Exception](#예외-ㅡ-Exception)
 - [예외 종류](#예외-종류)
 	- [1. Nullpointerexception](#1-NullPointerException)
 	- [2. ArrayIndexOutOfBoundsException](#2-ArrayIndexOutOfBoundsException)
 	- [3. NumberFormatException](#3-NumberFormatException)
 	- [4. ClassCastException](#4-ClassCastException)
-	
----	
+</div>
+</details>
+</h1>
+---
+
 # 예외 ㅡ Exception
 
 - **프로그램에 대한 사용자의 조작 또는 개발자의 코딩에서 문제가 발생하여 생기는 오류**
