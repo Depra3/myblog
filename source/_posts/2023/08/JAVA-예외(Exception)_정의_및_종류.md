@@ -17,7 +17,7 @@ tags:
 ---
 
 # 목차
-- [예외 - Exception](#예외---exception)
+- [예외 ㅡ Exception](#예외-ㅡ-Exception)
 - [예외 종류](#예외-종류)
 	- [1. Nullpointerexception](#1-NullPointerException)
 	- [2. ArrayIndexOutOfBoundsException](#2-ArrayIndexOutOfBoundsException)
@@ -25,7 +25,7 @@ tags:
 	- [4. ClassCastException](#4-ClassCastException)
 	
 ---	
-# **예외 - Exception**
+# 예외 ㅡ Exception
 
 - **프로그램에 대한 사용자의 조작 또는 개발자의 코딩에서 문제가 발생하여 생기는 오류**
 - **에러와 같이 문제가 발생하면 프로그램은 곧바로 종료**가 되지만, **예외는 처리를 통해 실행 상태가 정상이 되도록 할 수 있다.**
