@@ -9,16 +9,23 @@ tags:
 - try
 - catch
 - finally
-- 
+- 예제
 ---
 
+# 목차
+- [예외 - Exception](#예외---exception)
+- [try ㅡ catch ㅡ finally문](#try-ㅡ-catch-ㅡ-finally문)
+- [사용 예제 ①](#사용-예제-①)
+- [사용 예제 ②](#사용-예제-②)
+
+---
 # 예외 - Exception
 
 - **프로그램에 대한 사용자의 조작 또는 개발자의 코딩에서 문제가 발생하여 생기는 오류**
 - **정의 및 종류 : [Depra3's JAVA - 예외(Exception) 정의 및 종류](https://depra3.github.io/2023/08/31/2023/08/JAVA-%EC%98%88%EC%99%B8(Exception)_%EC%A0%95%EC%9D%98_%EB%B0%8F_%EC%A2%85%EB%A5%98/)**
 
 ---
-# **try ~ catch  ~ finally문**
+# **try ㅡ catch ㅡ finally문**
 
 ### try 블록
 
@@ -33,7 +40,7 @@ tags:
 ### finally 블록
 
 - **예외 발생 유무에 상관없이 무조건 실행하는 코드들을 묶는다.**
-
+- **생략이 가능하다.**
 ---
 
 # 사용 예제 ①
@@ -47,7 +54,7 @@ tags:
     	예외가 발생할 가능성이 있는 코드들
     } catch(예외 종류){
     	예외가 발생하면 처리하는 코드들
-    } finally{
+    } finally{ // 생략 가능
     	예외 상관없이 무조건 실행하는 코드들
     }
     ```
