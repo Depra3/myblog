@@ -1,5 +1,5 @@
 ---
-title: JAVA - 인터페이스(Interface)
+title: JAVA - 인터페이스 (Interface)
 date: 2023/08/28 21:00:00
 categories:
 - JAVA
@@ -14,6 +14,20 @@ tags:
 - final
 - 상속
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [인터페이스](#인터페이스-Interface)
+- [특징](#특징)
+- [사용 목적](#사용-목적)
+- [사용 예제](#사용-예제)
+- [Interface-상속](#Interface-상속)
+</div>
+</details>
+</h1>
+---
 
 # 인터페이스 (Interface)
 
@@ -25,6 +39,8 @@ tags:
 - **생성자를 생성할 수 없다.**
 - **다중 상속이 가능**하다.
 - **상속 받은 클래스(하위)는 부모 인터페이스(상위)의 메소드들 모두 메소드 오버라이딩해야 한다.**
+
+---
 
 # 사용 목적
 
@@ -89,4 +105,5 @@ tags:
 
 ---
 
-# **상속 : [Depra3's JAVA - Interface 상속](https://depra3.github.io/2023/08/23/2023/08/JAVA-%EC%83%81%EC%86%8D-Interface/)**
+# Interface 상속
+- **참조 링크 : [Depra3's JAVA - Interface 상속](https://depra3.github.io/2023/08/23/2023/08/JAVA-%EC%83%81%EC%86%8D-Interface/)**
