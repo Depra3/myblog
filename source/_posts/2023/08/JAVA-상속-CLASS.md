@@ -14,6 +14,19 @@ tags:
 - this
 - extends
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [상속](#상속)
+- [특징](#특징)
+- [상속 선언](#상속-선언)
+- [참고 키워드](#참고-키워드)
+</div>
+</details>
+</h1>
+---
 
 # 상속
 

@@ -15,6 +15,20 @@ tags:
 - extends
 - implements
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [상속](#상속)
+- [특징](#특징)
+- [상속 선언](#상속-선언)
+- [이중 상속](#이중-상속)
+- [다중 상속 선언](#다중-상속-선언)
+</div>
+</details>
+</h1>
+---
 
 # 상속
 
