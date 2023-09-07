@@ -10,8 +10,22 @@ tags:
 - Getter
 - Setter
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
 
-# Getter / Setter 메소드
+- [Getter와 Setter 메소드](#Getter와-Setter-메소드)
+- [Getter](#Getter)
+- [Setter](#Setter)
+- [Getter와 Setter의 메소드 선언](#Getter와-Setter의-메소드-선언)
+- [객체 무결성을 보호하는 방법](#객체-무결성을-보호하는-방법)
+</div>
+</details>
+</h1>
+---
+
+# Getter와 Setter 메소드
 
 > **객체 지향 프로그래밍에서 캡슐화를 이용해 데이터에 대한 직접적인 접근을 차단한다.**
 그 **이유는 객체 무결성을 지키기 위함**이다.
@@ -33,7 +47,7 @@ tags:
 - **메소드명은 set + 변수명으로 사용**한다.
     - **변수명 첫글자는 대문자**로 한다.
 ---
-# Getter / Setter 메소드 선언
+# Getter와 Setter의 메소드 선언
 - **예시**
     
     ```java
