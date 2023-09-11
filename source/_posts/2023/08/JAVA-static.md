@@ -12,6 +12,20 @@ tags:
 - 객체
 - Error
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [Static](#Static)
+    - [특징](#특징)
+    - [사용 목적](#사용-목적)
+- [Static 멤버 선언](#Static-멤버-선언)
+- [※ 주의 사항 ※](#※-주의-사항-※)
+</div>
+</details>
+</h1>
+---
 
 # Static
 
@@ -33,7 +47,7 @@ tags:
 - **static 변수**는 **동일 클래스 내에서 모든 객체(인스턴스)에서 공유가 가능하여 필요할 때 사용**한다.
 
 ---
-# Static(정적) 멤버 선언
+# Static 멤버 선언
 
 - **예시**
     ```java

@@ -13,6 +13,22 @@ tags:
 - 메소드
 - Error
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [final](#final)
+    - [특징](#특징)
+    - [사용 목적](#사용-목적)
+- [final 변수](#final-변수)
+    - [★ 오류 발생 ① ★](#★-오류-발생-①-★)
+- [final 메소드](#final-메소드)
+    - [★ 오류 발생 ② ★](#★-오류-발생-②-★)
+</div>
+</details>
+</h1>
+---
 
 # **final**
 
@@ -66,7 +82,7 @@ tags:
     ![](/Images/2023/08/JAVA-final-①/Untitled.png)
     
 
-### **※ 오류 발생 ※**
+## ★ 오류 발생 ① ★
 
 - **final 변수에 재할당 시에 오류 발생**
 
@@ -119,7 +135,7 @@ tags:
     ![](/Images/2023/08/JAVA-final-①/Untitled%203.png)
     
 
-### **※ 오류 발생 ※**
+## ★ 오류 발생 ② ★
 
 - **final 메소드에 오버라이딩 시에 오류 발생**
 - **코드**
