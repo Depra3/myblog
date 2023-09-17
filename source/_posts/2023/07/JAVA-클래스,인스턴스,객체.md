@@ -9,6 +9,18 @@ tags:
 - 인스턴스
 - 객체
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [클래스](#클래스)
+- [인스턴스](#인스턴스)
+- [객체](#객체)
+</div>
+</details>
+</h1>
+---
 
 # 클래스
 
