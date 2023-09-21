@@ -8,6 +8,18 @@ tags:
 - 반복문
 - foreach문
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [반복문](#반복문)
+- [foreach 문](#foreach-문)
+- [사용 형식](#사용-형식)
+</div>
+</details>
+</h1>
+---
 
 # 반복문
 
