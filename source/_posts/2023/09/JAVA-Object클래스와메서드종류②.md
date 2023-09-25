@@ -7,8 +7,7 @@ tags:
 - 개념
 - Object 클래스
 - 메서드 종류
-- toString()
-- hashCode()
+- getClass()
 - 예제
 ---
 <h1>
