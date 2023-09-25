@@ -5,10 +5,10 @@ categories:
 - JAVA
 tags:
 - 개념
-- Exception
-- try
-- catch
-- finally
+- Object 클래스
+- 메서드 종류
+- toString()
+- hashCode()
 - 예제
 ---
 <h1>
