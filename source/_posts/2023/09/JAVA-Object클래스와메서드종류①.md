@@ -1,5 +1,5 @@
 ---
-title: JAVA - Object클래스 와 메서드종류 ①
+title: JAVA - Object 클래스와 메서드종류 (toString, hashCode)
 date: 2023/09/23 20:00:00
 categories:
 - JAVA
