@@ -1,5 +1,5 @@
 ---
-title: JAVA - Object 클래스와 메서드종류 (equals, deppEquals)
+title: JAVA - Object 클래스와 메서드종류 ③ (equals, deppEquals)
 date: 2023/10/02 20:30:00
 categories:
 - JAVA

@@ -1,5 +1,5 @@
 ---
-title: JAVA - Object 클래스와 메서드종류 (getClass)
+title: JAVA - Object 클래스와 메서드종류 ② (getClass)
 date: 2023/09/25 20:30:00
 categories:
 - JAVA
