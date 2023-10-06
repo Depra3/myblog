@@ -17,9 +17,11 @@ tags:
 <summary>목차</summary>
 <div markdown="1">
 
-- [equals() 메서드](#equals-메서드)
-- [deepEquals() 메서드](#deepEquals-메서드)
-- [Objects 클래스의 equals와 deepEquals 차이](#Objects-클래스의-equals와-deepEquals-차이)
+- [Object 클래스](#Object-클래스)
+- [메서드 종류](#메서드-종류)
+    - [equals() 메서드](#equals-메서드)
+    - [deepEquals() 메서드](#deepEquals-메서드)
+    - [Objects 클래스의 equals와 deepEquals 차이](#Objects-클래스의-equals와-deepEquals-차이)
 </div>
 </details>
 </h1>
@@ -33,6 +35,7 @@ tags:
 > 
 
 ---
+# 메서드 종류
 
 ## equals() 메서드
 

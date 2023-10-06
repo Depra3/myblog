@@ -16,7 +16,7 @@ tags:
 <div markdown="1">
 
 - [Object 클래스](#Object-클래스)
-	- [getClass() 메서드](#getClass-메서드)
+- [getClass() 메서드](#getClass-메서드)
 
 </div>
 </details>
