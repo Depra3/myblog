@@ -8,13 +8,27 @@ tags:
 - 반복문
 - do~while문
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [반복문](#반복문)
+- [do ㅡ while 문](#do-ㅡ-while-문)
+    - [사용 형식 ①](#사용-형식-①)
+    - [사용 형식 ②](#사용-형식-②)
+</div>
+</details>
+</h1>
+---
 
 # 반복문
 
 - **프로그램 흐름에서 일정 횟수를 반복하고 싶은 구간에 사용하는 제어문**이다.
 - **종류 : while 문, do ~ while 문, for 문, foreach 문**
+---
 
-# do ~ while 문
+# do ㅡ while 문
 
 - **do ~ whilie 문은 { } 안의 실행문을 무조건 한번 실행한 후 조건식에서 참(true) /**
     **거짓(false)을 가려 참(true)인 경우 반복문을 실행하고 거짓(false)인 경우 반복문을 종료한다.**
