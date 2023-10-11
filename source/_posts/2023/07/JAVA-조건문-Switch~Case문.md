@@ -1,5 +1,5 @@
 ---
-title: JAVA-조건문-Switch~Case문
+title: JAVA - 조건문 - Switch ~ Case문
 date: 2023/07/14 20:00:00
 categories:
 - JAVA
@@ -8,13 +8,27 @@ tags:
 - 조건문
 - Switch~Case문
 ---
+<h1>
+<details>
+<summary>목차</summary>
+<div markdown="1">
+
+- [조건문](#조건문)
+- [Switch ㅡ Case 문](#Switch-ㅡ-Case-문)
+  - [사용 형식](#사용-형식)
+  - [※ 주의 사항 ※](#※-주의-사항-※)
+</div>
+</details>
+</h1>
+---
 
 # 조건문
 
 - **프로그램 흐름에 원하는 기준을 조건으로 분기를 추가하여 흐름을 제어**할 때 이용한다.
 - **종류** : **if 문, if ~ else 문, if ~ else if ~ else 문, 중첩 if문, switch - case 문**
+---
 
-# Switch ~ Case 문
+# Switch ㅡ Case 문
 
 - `IF 문`과 같은 조건문이지만 **다양한 연산자들을 이용하여 조건식을 만들 수 있는 `IF 문`과 달리 특정 값일 때에 실행문을 실행**한다.
 
